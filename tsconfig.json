@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+      "strict": true // adicionar o strict como true
+    },
+    "extends": "expo/tsconfig.base"
+  }
